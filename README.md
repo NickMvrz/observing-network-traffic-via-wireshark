@@ -126,10 +126,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img width="495" alt="Screenshot 2024-12-18 at 8 15 15 PM" src="https://github.com/user-attachments/assets/e13df9a9-0be2-4fc3-b2c4-e0bc9b25b9ce" />
 <p>
-  You'll be obseving a non-stop stream of traffic. Do you know why there is constant traffic in our tcp.port==3389?
+  You'll notice the constant stream of traffic. Why is it continuous?
 </p>
 <p>
-  The answer is that the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted:
+ RDP is constantly showing you a live stream from one computer to another, so traffic is always being transmitted:
 </p>
 
 <img width="1508" alt="Screenshot 2024-12-18 at 8 19 35 PM" src="https://github.com/user-attachments/assets/532e8149-d5e0-483b-96a6-96eea8b4746a" />
